@@ -42,6 +42,7 @@ button#search {
     border-radius: 20px;
     margin: 5px;
     font-size: 15px;
+    height: 320px;
 }
 .card h1{
     font-size: 25px;
